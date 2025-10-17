@@ -35,3 +35,4 @@ pub struct JettonMaster;
 impl GetJettonData for JettonMaster {}
 impl GetWalletAddress for JettonMaster {}
 ```
+<!-- Auto-update: 2025-10-17T13:57:38.262799 -->
